@@ -1,6 +1,10 @@
 $(document).ready(function() {
 
     // general js
+    $("div").on("click", "a", function(e) {
+        
+    });
+
     var dosomething = function() {
 
     };
