@@ -1,4 +1,4 @@
-# _projectskeleton
+# website_skeleton
 
 Skeleton files and folders to get a jump start on new projects.
 
